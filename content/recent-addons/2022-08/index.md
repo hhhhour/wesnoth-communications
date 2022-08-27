@@ -2,6 +2,8 @@
 
 ![](./promo-image.png)
 
+By Lord-Knightmare
+
 There are more than 450 add-ons available for 1.16 and this summer saw a lot of activity on the add-on server. Here are some of the highlights from what our user community has created.
 
 ## Era of Magic
