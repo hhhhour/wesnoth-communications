@@ -29,7 +29,7 @@ This unique era features more than [200 historical units](https://forums.wesnoth
 
 ## Struggle for Freedom
 
-Another classic, this [elf/human campaign is back](https://forums.wesnoth.org/viewtopic.php?t=55264) after several years being unmaintained. It has been rebuilt to use units from the [War of Legends](https://forums.wesnoth.org/viewtopic.php?t=30087) era, and features dungeon-crawling scenarios and small-squad gameplay.
+Another classic, this [elven campaign is back](https://forums.wesnoth.org/viewtopic.php?t=55264) after several years being unmaintained. It has been rebuilt to use units from the [War of Legends](https://forums.wesnoth.org/viewtopic.php?t=30087) era, and features dungeon-crawling scenarios and small-squad gameplay.
 
 ## How to play an add-on
 
