@@ -29,6 +29,19 @@ This unique era features more than [200 historical units](https://forums.wesnoth
 
 Another classic, this [elf/human campaign is back](https://forums.wesnoth.org/viewtopic.php?t=55264) after several years being unmaintained. It has been rebuilt to use units from the [War of Legends](https://forums.wesnoth.org/viewtopic.php?t=30087) era, and features dungeon-crawling scenarios and small-squad gameplay.
 
+## How to play an add-on
+
+Follow these steps to install an add-on and play it.
+
+1. From the main menu, click **Add-ons**.
+2. Click **Connect** to join `addons.wesnoth.org`, the official add-on server.
+3. Browse or search the list of add-ons.
+4. Click on the add-on to read more about it.
+5. Click ![](../../../resources/addon-download-icon-small.png) to install the add-on.
+6. Click **Exit** to return to the main menu.
+
+Once your add-on is installed, you can play it like any other game of Wesnoth. Campaign add-ons can be found in the campaigns menu. Multiplayer eras and scenarios are available when you start a multiplayer game.
+
 ## Got a fun idea?
 
 Every add-on starts with a good idea. Here's how to [get started](https://wiki.wesnoth.org/Create) making your own maps, units, scenarios and campaigns.
