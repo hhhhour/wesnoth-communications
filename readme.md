@@ -23,6 +23,15 @@ A draft document to propose, plan and publish announcements and promote content 
 - Q&A with [dev, former dev, add-on creator, community member, etc]
 - Most popular campaigns to play as [undead, orc, elvish, etc]
 
+## Requirements
+
+### Steam
+
+The following is required to post content on Steam.
+
+- The promo image must be at least 800x450 pixels.
+- The title must be 80 characters or less.
+
 ## Completed
 
 | Type | Draft | Posts | Description | Notes |
