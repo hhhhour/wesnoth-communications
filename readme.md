@@ -6,7 +6,6 @@ A draft document to propose, plan and publish announcements and promote content 
 
 | Type | Status | Description | Notes |
 | --- | --- | --- | --- |
-| Content | [Drafted](content/recent-addons/2022-08/index.md) | Add-ons recently added or updated (summer 2022) | |
 | Event | Proposed | One-week ladder tournament starting August 15 | [forum](https://forums.wesnoth.org/viewtopic.php?t=56120)
 | Announcement | Proposed | New Release: 1.16.6 |
 | How-To | Proposed | What is Afterlife and how do I play it? |
@@ -25,3 +24,8 @@ A draft document to propose, plan and publish announcements and promote content 
 - Q&A with [dev, former dev, add-on creator, community member, etc]
 - Most popular campaigns to play as [undead, orc, elvish, etc]
 
+## Posted
+
+| Type | Draft | Posts | Description | Notes |
+| --- | --- | --- | --- | --- |
+| Content | [Done](content/recent-addons/2022-08/index.md) | [Steam](https://steamcommunity.com/app/599390/eventcomments/3325366198388752449) | Recent add-ons (Summer 2022) |  |
