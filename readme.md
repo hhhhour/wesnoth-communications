@@ -6,7 +6,6 @@ A draft document to propose, plan and publish announcements and promote content 
 
 | Type | Status | Description | Notes |
 | --- | --- | --- | --- |
-| Event | Proposed | One-week ladder tournament starting August 15 | [forum](https://forums.wesnoth.org/viewtopic.php?t=56120)
 | Announcement | Proposed | New Release: 1.16.6 |
 | How-To | Proposed | What is Afterlife and how do I play it? |
 | How-To | [Drafted](content/what-is-world-conquest/index.md) | What is World Conquest and how do I play it? |
