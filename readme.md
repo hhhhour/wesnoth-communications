@@ -23,8 +23,8 @@ A draft document to propose, plan and publish announcements and promote content 
 - Q&A with [dev, former dev, add-on creator, community member, etc]
 - Most popular campaigns to play as [undead, orc, elvish, etc]
 
-## Posted
+## Completed
 
 | Type | Draft | Posts | Description | Notes |
 | --- | --- | --- | --- | --- |
-| Content | [Done](content/recent-addons/2022-08/index.md) | [Steam](https://steamcommunity.com/app/599390/eventcomments/3325366198388752449) | Recent add-ons (Summer 2022) |  |
+| Content | [View](content/recent-addons/2022-08/index.md) | [Steam](https://steamcommunity.com/app/599390/eventcomments/3325366198388752449) | Recent add-ons (Summer 2022) |  |
