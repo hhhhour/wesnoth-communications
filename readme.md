@@ -10,7 +10,7 @@ A draft document to propose, plan and publish announcements and promote content 
 | How-To | [Drafted](content/what-is-world-conquest/index.md) | What is World Conquest and how do I play it? |
 | How-To | Proposed | What is A New Land and how do I play it? |
 | How-To | Proposed | What to play with friends (recommendations for coop or PvP, casual or serious play) |
-| Content | Proposed | Most popular campaign add-ons |
+| Content | [Drafted](./content/most-downloaded-campaign-addons/2022-09/index.md) | Most popular campaign add-ons |
 
 
 ## Ideas
