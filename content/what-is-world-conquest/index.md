@@ -1,6 +1,6 @@
 # World Conquest: Wesnoth with friends
 
-One of the joys of Wesnoth is amassing an army of high-level recruits over a long campaign. When playing with friends, though, most multiplayer games are short, one-off scenarios. When the scenario ends, you can say goodbye to that Red Mage you painstakingly leveled up.
+One of the joys of Wesnoth is amassing an army of high-level recruits over a long campaign. When playing with friends, though, most multiplayer games are short, one-off encounters. When the scenario ends, you can say goodbye to that Red Mage you painstakingly leveled up.
 
 Wouldn't it be great if you could play a whole campaign with friends? Well you can with **World Conquest**, a randomly-generated coop campaign for 1-3 players. Since including it in our 1.16 release, it's become the second-most popular game on our multiplayer server.
 
