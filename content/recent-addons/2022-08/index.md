@@ -36,7 +36,7 @@ Another classic, this [elven campaign is back](https://forums.wesnoth.org/viewto
 Follow these steps to install an add-on and play it.
 
 1. From the main menu, click **Add-ons**.
-2. Click **Connect** to join `addons.wesnoth.org`, the official add-on server.
+2. Click **Connect** to join `add-ons.wesnoth.org`, the official add-on server.
 3. Browse or search the list of add-ons.
 4. Click on the add-on to read more about it.
 5. Click ![](../../../resources/addon-download-icon-small.png) to install the add-on.
