@@ -57,6 +57,4 @@ Follow these steps to install a campaign add-on and play it.
 10. Click **Campaigns**.
 11. Select the new campaign from the list and click **Play**.
 
-For this post, we chose the most downloaded campaigns. But download numbers can be deceiving. The oldest campaigns usually have the highest download counts.
-
-In future posts, we'll try to highlight some of the best of the more recent campaigns which haven't yet achieved the status of these classics.
+For this post, we chose the most downloaded campaigns. But download numbers can be deceiving. The oldest campaigns usually have the highest download counts. In future posts, we'll try to highlight some of the best of the more recent campaigns which haven't yet achieved the status of these classics.
