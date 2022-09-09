@@ -6,7 +6,7 @@ Battle for Wesnoth comes with almost 20 single-player campaigns set in the wide 
 
 There is no central hero who dominates the history of the Great Continent and no single story around which the world pivots. Like the best fan-fiction, Wesnoth's lore is made up of many voices with many stories to tell.
 
-As a result, our user community has written more than 100 campaign add-ons. Many of these are set in Irdya and expand upon little-explored races or fill in gaps in the game's timeline. Others are set in their own universe.
+As a result, our user community has written more than 100 campaign add-ons. Many of these are set in Irdya and expand upon little-explored races or fill in gaps in the game's [timeline](https://wiki.wesnoth.org/Timeline_of_Wesnoth). Others are set in their own universe.
 
 In this post, we want to celebrate the most popular user-made campaigns available on the add-on server. The stories these campaigns tell are not part of Wesnoth's "canon" -- what we call the official lore -- but each one has been a hit with our player community.
 
