@@ -5,7 +5,7 @@
 
 By H-Hour
 
-Battle for Wesnoth comes with almost 20 single-player campaigns set in the wide green world of [Irdya](https://wiki.wesnoth.org/Geography_of_wesnoth). You can play as a young heir fighting to restore his throne, a king desparate to save his people, or the instigator of a peasant revolt. You can lead a dwarven expedition to uncover a lost relic in one campaign. Or crush the rivals of your Orcish clan to unite the Great Horde in another. You can even play as wayward magi drawn inexoribly, disastrously to the darkest of their arts.
+Battle for Wesnoth comes with almost 20 single-player campaigns set in the wide green world of [Irdya](https://wiki.wesnoth.org/Geography_of_wesnoth). You can play as a young heir fighting to restore his throne, a king desparate to save his people, or the instigator of a peasant revolt. You can lead a dwarven expedition to uncover a lost relic in one campaign. Or crush the rivals of your Orcish clan to unite the Great Horde in another. You can even play as wayward magi drawn inexorably, disastrously to the darkest of their arts.
 
 There is no central hero who dominates the history of the Great Continent and no single story around which the world pivots. Like the best fan-fiction, Wesnoth's lore is made up of many voices with many stories to tell.
 
@@ -36,7 +36,7 @@ This ground-breaking campaign replaced Wesnoth's tile-based terrain art with stu
 
 With more than 200 scenarios, [Legend of the Invincibles](https://r.wesnoth.org/t32384) holds the record for the longest single campaign. The author has introduced traditional RPG-like features to keep you engaged throughout, such as an inventory system and more than a dozen unique character classes, each with their own levelling tree.
 
-Set in its own universe with many of its own game mechanics, it is almost a game unto itself. It's many fans have even developed their own player manuals, such as guides to its abundant [items](https://wiki.wesnoth.org/LotI_Items), [abilities](https://wiki.wesnoth.org/LotI_Abilities) and [unit advancements](https://wiki.wesnoth.org/LotI_Unit_Advancements).
+Set in its own universe with many of its own game mechanics, it is almost a game unto itself. It's many fans have even developed their own player manuals, such as guides to its many [items](https://wiki.wesnoth.org/LotI_Items), [abilities](https://wiki.wesnoth.org/LotI_Abilities) and [unit advancements](https://wiki.wesnoth.org/LotI_Unit_Advancements).
 
 
 
@@ -46,7 +46,7 @@ Set in its own universe with many of its own game mechanics, it is almost a game
 
 In this RPG campaign you recruit a small squad, move them around a large battlefield, and choose when to initiate a battle. Over time, your fame will grow along with your ability to recruit and feed your fighters. As the title suggests, [A Group in a War](https://r.wesnoth.org/t41451) brings a light touch to its story. But that gives the player a lot of freedom to choose how to fight this war.
 
-## How to install and play the most populuar campaign add-ons
+## How to install and play the most popular campaign add-ons
 
 Follow these steps to install a campaign add-on and play it.
 
