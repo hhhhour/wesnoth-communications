@@ -1,6 +1,9 @@
-![](./featured-image.png)
 
 # Continue your adventure with the most popular campaign add-ons
+
+![](./featured-image.png)
+
+By H-Hour
 
 Battle for Wesnoth comes with almost 20 single-player campaigns set in the wide green world of [Irdya](https://wiki.wesnoth.org/Geography_of_wesnoth). You can play as a young heir fighting to restore his throne, a king desparate to save his people, or the instigator of a peasant revolt. You can lead a dwarven expedition to uncover a lost relic in one campaign. Or crush the rivals of your Orcish clan to unite the Great Horde in another. You can even play as wayward magi drawn inexoribly, disastrously to the darkest of their arts.
 
