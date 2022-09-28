@@ -7,7 +7,6 @@ A draft document to propose, plan and publish announcements and promote content 
 | Type | Status | Description | Notes |
 | --- | --- | --- | --- |
 | How-To | Proposed | What is Afterlife and how do I play it? | [stats](https://forums.wesnoth.org/viewtopic.php?t=55715) |
-| How-To | [Drafted](content/what-is-world-conquest/index.md) | What is World Conquest and how do I play it? |
 | How-To | Proposed | What is A New Land and how do I play it? |
 | How-To | Proposed | What to play with friends (recommendations for coop or PvP, casual or serious play) |
 | Content | [Drafted](./content/most-downloaded-campaign-addons/2022-09/index.md) | Most popular campaign add-ons |
@@ -34,6 +33,7 @@ The following is required to post content on Steam.
 
 ## Completed
 
-| Type | Draft | Posts | Description | Notes |
+| Date | Type | Draft | Posts | Description |
 | --- | --- | --- | --- | --- |
-| Content | [View](content/recent-addons/2022-08/index.md) | [Steam](https://steamcommunity.com/app/599390/eventcomments/3325366198388752449) | Recent add-ons (Summer 2022) |  |
+| 2022-08-27 | Content | [View](content/recent-addons/2022-08/index.md) | [Steam](https://steamcommunity.com/app/599390/eventcomments/3325366198388752449) | Recent add-ons (Summer 2022) |  |
+| 2022-09-28 | How-To | [View](content/what-is-world-conquest/index.md) | [Steam](https://steamcommunity.com/games/599390/announcements/detail/3287088771787899069) | What is World Conquest and how do I play it? |
